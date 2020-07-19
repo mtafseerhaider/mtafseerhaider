@@ -12,7 +12,7 @@ I'm a Software Test Automation Developer with a passion for learning new technol
 ⚙️ I use daily: Selenium WebDriver, Postman, Docker, Azure DevOps (VSTS)  
 🌍 I'm mostly active within the Test Automation University Community  
 💅 Designed: TestFramework @1insurer, AutomatedTestFramework @NETSOL, etc.  
-🌱 Learning all about software test automation 
+🌱 Learning all about software test automation   
 🎙 Currently at 10th place on TAU 100 worldwide  
 💬 Ping me about API, web, and mobile automation framework design & implementation, DevOps implementation in the Testing component of software development, etc.  
 📫 Reach me: https://www.linkedin.com/in/mtafseerhaider/  
