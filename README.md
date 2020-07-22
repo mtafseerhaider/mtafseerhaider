@@ -1,4 +1,4 @@
-### Hi there, I'm Tafseer! 👋
+###  Hey, nice to see you. Welcome to my page! 👋  
 
 <!--
 **mtafseerhaider/mtafseerhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@ Profile views counter
 
 -->
 
-I'm a Software Test Automation Developer with a passion for learning new technologies, designing & implementing automation frameworks, training people on test automation best practices, and helping teams to adopt DevOps to achieve continuous testing. I'm **focused on three things:** T-shaped team, smarter automation, and the great ideas of the people on the project team as well related comunnities.
+I'm Tafseer, a Software Test Automation Engineer from Lahore, Pakistan. I've a passion for learning new technologies, designing & implementing automation frameworks, training people on test automation best practices, and helping teams to adopt DevOps to achieve continuous testing. I'm **focused on three things:** T-shaped team, smarter automation, and the great ideas of the people on the project team as well related comunnities.
 
 🏢 I'm currently working at NETSOL Technologies inc. as Principal Test Automation Engineer  
 ⚙️ I use daily: Selenium WebDriver, Postman, Docker, Azure DevOps (VSTS)  
