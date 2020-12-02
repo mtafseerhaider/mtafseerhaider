@@ -8,7 +8,7 @@ Profile views counter
 
 I'm Tafseer, a Software Test Automation Engineer from Lahore, Pakistan. I've a passion for learning new technologies, designing & implementing automation frameworks, training people on test automation best practices, and helping teams to adopt DevOps to achieve continuous testing. I'm **focused on three things:** T-shaped team, smarter automation, and the great ideas of the people on the project team as well as related comunnities.
 
-🏢 I'm currently working at Afiniti as Principal Software Engineer  
+🏢 I'm currently working at Afiniti as Principal Software Engineer, SDET    
 ⚙️ I use daily: Cypress, Selenium WebDriver, Postman, Docker, Jira, Azure DevOps (VSTS)  
 🌍 I'm mostly active within the Test Automation University Community  
 💅 Designed: TestFramework @1insurer, AutomatedTestFramework @NETSOL, etc.  
