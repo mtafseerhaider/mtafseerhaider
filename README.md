@@ -16,5 +16,5 @@ I'm Tafseer, a Software Test Automation Engineer from Lahore, Pakistan. I've a p
 🎙 Currently at 10th place on TAU 100 worldwide  
 💬 Ping me about API, web, and mobile automation framework design & implementation, DevOps implementation in the Testing component of software development, etc.  
 📫 Reach me: https://www.linkedin.com/in/mtafseerhaider/  
-⚡️ Fun fact: I'm a huge fan of Game of Thrones, Harry Potter & Dark  
+⚡️ Fun fact: I'm a huge fan of Money Heist, Game of Thrones, TBBT & Dark  
 
