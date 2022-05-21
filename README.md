@@ -13,7 +13,7 @@ I'm Tafseer, a Software Development Engineer in Test from Lahore, Pakistan. I've
 🌍 I'm mostly active within the Test Automation University Community  
 💅 Designed: MOTIF @Afiniti, TestFramework @1insurer, AutomatedTestFramework @NETSOL, etc.  
 🌱 Learning all about software test automation   
-🎙 Currently at 10th place on TAU 100 worldwide  
+🎙 Currently in top 20 on TAU 100 worldwide  
 💬 Ping me about API, web, and mobile automation framework design & implementation, DevOps implementation in the Testing component of software development, etc.  
 📫 Reach me: https://www.linkedin.com/in/mtafseerhaider/  
 ⚡️ Fun fact: I'm a huge fan of Money Heist, Game of Thrones, TBBT & Dark  
