@@ -15,23 +15,5 @@ I'm Tafseer, a Software Development Engineer in Test from Lahore, Pakistan. I've
 🌱 Learning all about software test automation   
 🎙 Currently in top 20 on TAU 100 worldwide  
 💬 Ping me about API, web, and mobile automation framework design & implementation, DevOps implementation in the Testing component of software development, etc.  
-📫 Reach me:  
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mtafseerhaider" target="_blank">Follow on LinkedIn</a>  
+📫 Reach me: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mtafseerhaider" target="_blank">Follow on LinkedIn</a>  
 ⚡️ Fun fact: I'm a huge fan of Money Heist, Game of Thrones, TBBT & Dark  
